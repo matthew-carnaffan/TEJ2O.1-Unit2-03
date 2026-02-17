@@ -2,7 +2,7 @@
  *
  * Created by: Matthew Carnaffan
  * Created on: Feb 2026
- * This program does basic math
+ * This program does the Area and perimeter of a rectangle
 */
 
 basic.showString('A rectangle has dimensions 5 cm & 3 cm')
